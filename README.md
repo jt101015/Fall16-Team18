@@ -11,7 +11,7 @@ Hiking on weekend or other outdoor activities are attractive for most people. Ho
 Our project is aiming to solve this problem, we develop a platform for both individual guides and tourists. Individual guide can create a destination depends on their choices where they want to offer services. Our platform provides plenty of information like pictures by using APIs for individual guides to fetch when creating their web pages. On the tourists’ side, tourists can search for web pages created by individual guides and then reserve a spot by paying with a credit card. Our platform can be divided as three parts, such as servers, client and database. We develop RESTful services by using Node.js (Express JS), client side by using AngularJS and HTML5 and database to store data by using MySQL. <br>
 <br>
 3. Architecture--3-tier web service<br>
-<img src="https://github.com/SJSU272Lab/Fall16-Team18/blob/master/project%20assignment/3tier.jpg" width="28%" align="left"><br>
+<img src="https://github.com/SJSU272Lab/Fall16-Team18/blob/master/project%20assignment/3tier.jpg" width="28%" align="left" /> <br>
 <br>
 
 4. User Story and persona <br>
