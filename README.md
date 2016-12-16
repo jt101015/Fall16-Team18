@@ -1,6 +1,6 @@
 Project Assignment <br>
 Project Team 18  Yu Fu   Teng Jin    Mingxuan Han <br>
-WebSite: http://mingxuan.space   (Google Chrome preferred, please set cookies and website data as "always allow" in Privacy if you use Safari)
+WebSite: http://mingxuan.space   <h5>(Google Chrome preferred, please set cookies and website data as "always allow" in Privacy if you use Safari)</h5><br>
 [Presentation Slides] (project assignment/CMPE 272_Team_18.pdf) <br>
 [Project Report] (project assignment/project_report_team_18.pdf)  <br>
 
