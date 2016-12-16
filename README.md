@@ -17,9 +17,9 @@ Our project is aiming to solve this problem, we develop a platform for both indi
 
 4. User Story and persona <br>
 <br>
-(1). User story 1: As an individual guide, he/she wants to be a tour guide to help tourists, such as picking tourists up at the airport, booking hotels for them and so on, so that he/she can create a web page in our platform which is searchable by tourist all over the world.
+User story 1: As an individual guide, he/she wants to be a tour guide to help tourists, such as picking tourists up at the airport, booking hotels for them and so on, so that he/she can create a web page in our platform which is searchable by tourist all over the world.
 
-(2). User story 2: As an undergraduate student, he/she wants to spend his/her summer holiday on traveling, so that he/she can log in to our platform as a tourist, makes a reservation on a spot and has a wonderful trip after that.
+  User story 2: As an undergraduate student, he/she wants to spend his/her summer holiday on traveling, so that he/she can log in to our platform as a tourist, makes a reservation on a spot and has a wonderful trip after that.
 
 
   
